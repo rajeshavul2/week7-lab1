@@ -3,11 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="Application">
-      <header className="Application-header">
-        <img src={logo} className="Appplication-logo" alt="logo" />
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This Rajesh <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="Application-link"
